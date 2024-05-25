@@ -91,7 +91,6 @@ project/plugins/project/
 .history
 .cache
 .lib/
-data/
 metastore_db/
 .idea/
 
